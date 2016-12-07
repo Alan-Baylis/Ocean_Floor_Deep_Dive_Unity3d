@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monterey_Bay", "Monterey_Bay.csproj", "{EEF85B8B-E983-2B57-8177-F6FAB6ED1CEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monterey_Bay.Editor", "Monterey_Bay.Editor.csproj", "{498F17AC-F51E-A36D-E652-0BA44B5CAA12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF85B8B-E983-2B57-8177-F6FAB6ED1CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF85B8B-E983-2B57-8177-F6FAB6ED1CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF85B8B-E983-2B57-8177-F6FAB6ED1CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF85B8B-E983-2B57-8177-F6FAB6ED1CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498F17AC-F51E-A36D-E652-0BA44B5CAA12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498F17AC-F51E-A36D-E652-0BA44B5CAA12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498F17AC-F51E-A36D-E652-0BA44B5CAA12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498F17AC-F51E-A36D-E652-0BA44B5CAA12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
